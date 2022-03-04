@@ -1,7 +1,0 @@
-#codeIfrm {
-  position:fixed;display:flex;
-  align-items:center;
-  justify-content:center;
-  padding: 5px!important;
-  z-index: 9999999999999;
-}
